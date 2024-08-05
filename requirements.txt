@@ -1,0 +1,8 @@
+deepface==0.0.85
+demucs @ git+https://github.com/facebookresearch/demucs@e976d93ecc3865e5757426930257e200846a520a
+numpy==1.26.2
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+pandas==2.1.4
+torch==2.3.0
+torchaudio==2.3.0
